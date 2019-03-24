@@ -1,0 +1,35 @@
+body{
+    background-image: url("../images/loginbackground.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card{
+    width:100%;
+}
+.card-body{
+    background-color:#162337;
+    color:white;
+}
+.card-title  {
+    font-size: 2.25rem;
+}
+/* .mt-5 {
+    margin-top: 12rem!important;
+} */
+.form-text{
+    text-align: center;
+    text-decoration-line: none;
+    color:white;
+    font-weight: bold;
+}
+.form-text:hover{
+    text-decoration: none;
+
+}
+/* .pos{
+    margin-top:15%;
+} */
+.container{
+    margin-top:8%;
+}

@@ -1,0 +1,42 @@
+nav .navbar-nav li a{
+    color: white !important;
+    }
+ 
+footer{
+ display:block;
+ background-color:#232F3D;
+ color:white;
+text-align:center;
+padding:50px;
+/* border-top:2px dotted  #2196F3; */
+        }
+.fa {
+padding: 10px;
+text-decoration: none;
+
+}
+.card-header{
+    text-align:center;
+}
+.card-img-top {
+    
+    height: 250px;
+    object-fit:contain;
+}
+
+.inner{
+    overflow: hidden;
+   
+}
+.inner img {
+    transition: all 1.5s ease;
+    object-fit: contain;
+   
+}
+.card{
+    max-width:100%;
+
+}
+.card-body{
+    text-align:center;
+}
